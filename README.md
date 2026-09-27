@@ -16,4 +16,5 @@ Free, private tools for Trust & Safety and product teams. **[Open it](https://st
 | [Incident tabletop](https://github.com/stevenmacchia/incident-tabletop) | Rehearse a crisis and learn from every call |
 | [Metrics framework](https://github.com/stevenmacchia/ts-metrics-framework) | Measure whether your program actually makes people safer |
 | [Vendor scorecard](https://github.com/stevenmacchia/moderation-vendor-scorecard) | Choose a moderation vendor on evidence |
-| [AI assistants](https://github.com/stevenmacchia/ts-ai-assistants) | Policy, enforcement notices, appeals and transparency reports, with a person in charge |
+| [Program maturity](https://github.com/stevenmacchia/ts-maturity-model) | Rate a T&S program in eight areas and get a roadmap for the biggest gaps |
+| [AI assistants](https://github.com/stevenmacchia/ts-ai-assistants) | Policy, enforcement notices and appeals, with a person in charge |
