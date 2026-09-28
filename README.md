@@ -2,13 +2,13 @@
 
 **Trust & Safety leader.** I build practical, free tools that help product and safety teams keep people safe online.
 
-[Portfolio](https://stevenmacchia.github.io) · [LinkedIn](https://www.linkedin.com/in/stevenmacchia) · [T&S Workbench](https://stevenmacchia.github.io/ts-workbench/)
+[Portfolio](https://stevenmacchia.com) · [LinkedIn](https://www.linkedin.com/in/stevenmacchia) · [T&S Workbench](https://stevenmacchia.com/ts-workbench/)
 
 ## Featured: T&S Workbench
 
-<a href="https://stevenmacchia.github.io/ts-workbench/"><img src="https://raw.githubusercontent.com/stevenmacchia/ts-workbench/main/docs/og-image.png" alt="T&S Workbench" width="100%"></a>
+<a href="https://stevenmacchia.com/ts-workbench/"><img src="https://raw.githubusercontent.com/stevenmacchia/ts-workbench/main/docs/og-image.png" alt="T&S Workbench" width="100%"></a>
 
-Free, private tools for Trust & Safety and product teams. **[Open it](https://stevenmacchia.github.io/ts-workbench/)**, **[explore the demo company](https://stevenmacchia.github.io/ts-workbench/#demo)** or **[read the source](https://github.com/stevenmacchia/ts-workbench)**.
+Free, private tools for Trust & Safety and product teams. **[Open it](https://stevenmacchia.com/ts-workbench/)**, **[explore the demo company](https://stevenmacchia.com/ts-workbench/#demo)** or **[read the source](https://github.com/stevenmacchia/ts-workbench)**.
 
 | Tool | What it helps you do |
 |---|---|
