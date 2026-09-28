@@ -8,7 +8,7 @@
 
 <a href="https://stevenmacchia.github.io/ts-workbench/"><img src="https://raw.githubusercontent.com/stevenmacchia/ts-workbench/main/docs/og-image.png" alt="T&S Workbench" width="100%"></a>
 
-Free, private tools for Trust & Safety and product teams. **[Open it](https://stevenmacchia.github.io/ts-workbench/)** or **[read the source](https://github.com/stevenmacchia/ts-workbench)**.
+Free, private tools for Trust & Safety and product teams. **[Open it](https://stevenmacchia.github.io/ts-workbench/)**, **[explore the demo company](https://stevenmacchia.github.io/ts-workbench/#demo)** or **[read the source](https://github.com/stevenmacchia/ts-workbench)**.
 
 | Tool | What it helps you do |
 |---|---|
