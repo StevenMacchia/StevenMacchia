@@ -2,7 +2,7 @@
 
 **Trust & Safety leader.** I build practical, free tools that help product and safety teams keep people safe online.
 
-[Portfolio](https://stevenmacchia.com) · [LinkedIn](https://www.linkedin.com/in/stevenmacchia) · [T&S Workbench](https://stevenmacchia.com/ts-workbench/)
+[Portfolio](https://stevenmacchia.com) · [LinkedIn](https://www.linkedin.com/in/stevenmacchia) · [T&S Workbench](https://stevenmacchia.com/ts-workbench/) · [The T&S Handbook](https://stevenmacchia.com/ts-handbook/) · [Writing](https://stevenmacchia.com/writing/)
 
 ## Featured: T&S Workbench
 
